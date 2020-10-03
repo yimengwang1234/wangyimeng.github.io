@@ -18,9 +18,6 @@ I'm a Ph.D candidate major in internal flow mechanism of Aero-Engine in Universi
       <p><b>邮箱：1234567789@qq.com</b></p>
       <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
     </td>
-    <td width="25%">
-      <img src="/su35.jpg" width="100%">      
-    </td>
   </tr>
 </table>
 ## 1
