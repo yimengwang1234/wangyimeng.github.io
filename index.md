@@ -19,7 +19,7 @@ I'm a Ph.D candidate major in internal flow mechanism of Aero-Engine in Universi
       <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
     </td>
     <td width="25%">
-      <img src="/su35.jpg" width="100%">      
+      <img src="https://github.com/yimengwang1234/wangyimeng.github.io/su35.jpg" width="100%">      
     </td>
   </tr>
 </table>
@@ -27,3 +27,4 @@ I'm a Ph.D candidate major in internal flow mechanism of Aero-Engine in Universi
 <object width="330" height="450" data="http://music.163.com/style/swf/widget.swf?sid=108250019&type=0&auto=0&width=310&height=430" type="application/x-shockwave-flash"></object>
 ![图片描述](图片链接)
 ![证件照](/su35.jpg)
+
