@@ -25,6 +25,5 @@ I'm a Ph.D candidate major in internal flow mechanism of Aero-Engine in Universi
 </table>
 ## 1
 <object width="330" height="450" data="http://music.163.com/style/swf/widget.swf?sid=108250019&type=0&auto=0&width=310&height=430" type="application/x-shockwave-flash"></object>
-![图片描述](图片链接)
 ![证件照](/su35.jpg)
 
